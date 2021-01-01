@@ -1,1 +1,0 @@
-osource "C:/Users/jan-j/ncs/v1.4.1/zephyr/soc/$(ARCH)/*/Kconfig.soc"

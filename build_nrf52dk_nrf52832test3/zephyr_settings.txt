@@ -1,2 +1,0 @@
-"BOARD_ROOT":"C:/Users/jan-j/ncs/v1.4.1/nrf"
-"DTS_ROOT":"C:/Users/jan-j/ncs/v1.4.1/nrf"
